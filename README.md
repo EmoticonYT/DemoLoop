@@ -17,9 +17,9 @@ Prerequisites:
 
 A Mac running macOS 26 or newer. If you can get this compiling and running on older macOS versions, let me know!
 
-Xcode 26 or newer. If you can get this compiling and running on older Xcode versions, let me know!
+Xcode 27 or newer. If you can get this compiling and running on older Xcode versions, let me know!
 
-An iPhone or iPad running iOS 26 or newer. If you can get this running on older iOS versions, let me know!
+An iPhone or iPad running iOS 16 or newer. If you can get this running on older iOS versions, let me know!
 
 A video matching the resolution of the iOS device you are targeting. For example, the target resolution for the iPhone 13 and 14 is 2556 × 1179. You can find an example movie.mp4 already prepared in the 2556 × 1179 resolution in the DemoLoop folder.
 
